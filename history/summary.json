@@ -22,7 +22,7 @@
     "url": "https://jxyfpp.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/jxyfpp.serv00.net.ico",
     "slug": "serv00",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 761,
     "timeYear": 761,
     "dailyMinutesDown": {
+      "2024-11-19": 0,
       "2024-11-06": 2
     }
   }
