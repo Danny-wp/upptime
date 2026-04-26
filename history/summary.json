@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 107,
-    "timeWeek": 109,
-    "timeMonth": 121,
+    "time": 121,
+    "timeDay": 130,
+    "timeWeek": 112,
+    "timeMonth": 119,
     "timeYear": 124,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/jxyfpp.serv00.net.ico",
     "slug": "serv00",
     "status": "down",
-    "uptime": "27.99%",
+    "uptime": "27.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 711,
-    "timeDay": 887,
-    "timeWeek": 717,
-    "timeMonth": 713,
+    "timeDay": 642,
+    "timeWeek": 721,
+    "timeMonth": 712,
     "timeYear": 716,
     "dailyMinutesDown": {
-      "2026-04-25": 147,
+      "2026-04-26": 163,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -397,8 +398,7 @@
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
-      "2025-04-27": 1440,
-      "2025-04-26": 1440
+      "2025-04-27": 1440
     }
   }
 ]
